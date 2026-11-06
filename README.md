@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="ESO EXE: Independent developer. Freedom isn't a feature. It's the whole point." width="100%">
+  <img src="assets/header.svg" alt="ESO EXE terminal: Freedom isn't a feature. It's the whole point. The website refreshes its GitHub data every 10 minutes." width="100%">
 </p>
 
 <p align="center">
