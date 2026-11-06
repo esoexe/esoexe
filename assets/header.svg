@@ -1,34 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="t d">
-  <title id="t">ESO EXE</title>
-  <desc id="d">Ilyass, ESO EXE. Free, open-source, local-first software.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="t d">
+  <title id="t">ESO EXE terminal</title>
+  <desc id="d">A terminal session: ilyass, ESO EXE. Freedom isn't a feature. It's the whole point. Watching eso-exe.pages.dev.</desc>
   <style>
-    .bg { fill: #F4F1EA; }
-    .ink { fill: #161513; }
-    .muted { fill: #6B665C; }
-    .accent { fill: #B4532A; }
-    .rule { stroke: #D8D2C4; stroke-width: 1; }
-    .word { font: 700 84px/1 "Helvetica Neue", Arial, sans-serif; letter-spacing: -2px; }
-    .small { font: 500 15px/1 ui-monospace, Menlo, Consolas, monospace; letter-spacing: 2px; text-transform: uppercase; }
-    .line { font: 400 22px/1 "Helvetica Neue", Arial, sans-serif; }
-    .in { opacity: 0; animation: rise 900ms cubic-bezier(.2,.7,.2,1) forwards; }
-    .d1 { animation-delay: 150ms; } .d2 { animation-delay: 450ms; } .d3 { animation-delay: 800ms; } .d4 { animation-delay: 1100ms; }
-    .grow { transform-origin: 0 50%; transform: scaleX(0); animation: grow 1100ms cubic-bezier(.2,.7,.2,1) 300ms forwards; }
+    .win { fill: #161513; }
+    .bar { fill: #26241F; }
+    .dot { fill: #4A463F; }
+    .title { font: 500 14px/1 ui-monospace, Menlo, Consolas, monospace; fill: #A39D90; letter-spacing: 1px; }
+    .line { font: 400 20px/1 ui-monospace, Menlo, Consolas, monospace; opacity: 0; }
     .caret { animation: blink 1s steps(1) infinite; }
-    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
-    @keyframes grow { to { transform: scaleX(1); } }
     @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #121110; } .ink { fill: #F4F1EA; } .muted { fill: #A39D90; } .rule { stroke: #3A3733; }
-    }
+    @keyframes l0 { 0%,0.00% { opacity:0; transform:translateX(-6px); } 2.50%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l0 { animation: l0 14.0s linear infinite; } @keyframes l1 { 0%,6.43% { opacity:0; transform:translateX(-6px); } 8.93%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l1 { animation: l1 14.0s linear infinite; } @keyframes l2 { 0%,12.86% { opacity:0; transform:translateX(-6px); } 15.36%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l2 { animation: l2 14.0s linear infinite; } @keyframes l3 { 0%,19.29% { opacity:0; transform:translateX(-6px); } 21.79%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l3 { animation: l3 14.0s linear infinite; } @keyframes l4 { 0%,25.71% { opacity:0; transform:translateX(-6px); } 28.21%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l4 { animation: l4 14.0s linear infinite; } @keyframes l5 { 0%,32.14% { opacity:0; transform:translateX(-6px); } 34.64%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l5 { animation: l5 14.0s linear infinite; } @keyframes l6 { 0%,38.57% { opacity:0; transform:translateX(-6px); } 41.07%,94% { opacity:1; transform:none; } 100% { opacity:0; } } .l6 { animation: l6 14.0s linear infinite; }
     @media (prefers-reduced-motion: reduce) {
-      .in, .grow { animation: none; opacity: 1; transform: none; }
+      .line { animation: none !important; opacity: 1 !important; transform: none !important; }
       .caret { animation: none; }
     }
   </style>
-  <rect class="bg" width="1000" height="240"/>
-  <text class="small muted in d1" x="60" y="62">INDEPENDENT DEVELOPER</text>
-  <text class="word ink in d2" x="56" y="134">ESO EXE<tspan class="accent caret">_</tspan></text>
-  <rect class="rule grow" x="60" y="164" width="880" height="1"/>
-  <text class="line ink in d3" x="60" y="206">Freedom isn't a feature. It's the whole point.</text>
-  <text class="small muted in d4" x="940" y="62" text-anchor="end">FREE · OPEN SOURCE · LOCAL FIRST</text>
+  <rect class="win" width="1000" height="360" rx="10"/>
+  <rect class="bar" width="1000" height="40" rx="10"/>
+  <rect class="bar" y="30" width="1000" height="10"/>
+  <circle class="dot" cx="24" cy="20" r="6"/><circle class="dot" cx="44" cy="20" r="6"/><circle class="dot" cx="64" cy="20" r="6"/>
+  <text class="title" x="500" y="25" text-anchor="middle">esoexe@github: ~</text>
+  <text class="line l0" x="36" y="84" fill="#B4532A">$ whoami</text>
+  <text class="line l1" x="36" y="118" fill="#EDE8DC">ilyass  ·  ESO EXE  ·  independent developer</text>
+  <text class="line l2" x="36" y="152" fill="#B4532A">$ cat mission.txt</text>
+  <text class="line l3" x="36" y="186" fill="#EDE8DC">Freedom isn't a feature. It's the whole point.</text>
+  <text class="line l4" x="36" y="220" fill="#B4532A">$ ./watch eso-exe.pages.dev --every 10m</text>
+  <text class="line l5" x="36" y="254" fill="#EDE8DC">watching the website · refreshes its GitHub data every 10 minutes</text>
+  <text class="line l6" x="36" y="288" fill="#B4532A">$ </text>
+  <rect class="caret" x="60" y="266" width="11" height="22" fill="#EDE8DC"/>
 </svg>
