@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="653" height="788" viewBox="0 0 653 788" role="img" aria-labelledby="t d">
+  <title id="t">Ilyass, ESO EXE, as an ASCII portrait</title>
+  <desc id="d">The profile photograph drawn with text characters, with a live scan line.</desc>
+  <style>
+    .bg { fill: #161513; }
+    .head { font: 500 11px ui-monospace, Menlo, Consolas, monospace; fill: #A39D90; letter-spacing: 1.5px; }
+    .r { font: 400 12px/1 ui-monospace, Menlo, Consolas, monospace; fill: #EDE8DC; animation: shimmer 5.2s ease-in-out infinite; }
+    .scan { fill: #B4532A; opacity: .85; animation: sweep 5.2s linear infinite; }
+    @keyframes shimmer { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes sweep { from { transform: translateY(40px); } to { transform: translateY(758px); } }
+    @media (prefers-reduced-motion: reduce) { .r, .scan { animation: none; } .scan { display: none; } }
+  </style>
+  <rect class="bg" width="653" height="788" rx="10"/>
+  <text class="head" x="24" y="24">PORTRAIT / ASCII · LIVE</text>
+  <rect class="scan" x="20" y="30" width="613" height="2"/>
+    <text class="r" style="animation-delay:0.0s" x="24" y="54.0" xml:space="preserve">********++++++++++++++++++++++++++++++++++++++++++++++++++++**********************##</text>
+    <text class="r" style="animation-delay:0.045s" x="24" y="68.0" xml:space="preserve">******++++++++++++++++++++++++++++++++++++++++++++++++++++++++++********************</text>
+    <text class="r" style="animation-delay:0.09s" x="24" y="82.0" xml:space="preserve">*****++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*******************</text>
+    <text class="r" style="animation-delay:0.135s" x="24" y="96.0" xml:space="preserve">***+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++****************</text>
+    <text class="r" style="animation-delay:0.18s" x="24" y="110.0" xml:space="preserve">**+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++***************</text>
+    <text class="r" style="animation-delay:0.225s" x="24" y="124.0" xml:space="preserve">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*************</text>
+    <text class="r" style="animation-delay:0.27s" x="24" y="138.0" xml:space="preserve">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++***********</text>
+    <text class="r" style="animation-delay:0.315s" x="24" y="152.0" xml:space="preserve">+++++++++++++++++++++++++++++++++++*###%##*+++++++++++++++++++++++++++++++**********</text>
+    <text class="r" style="animation-delay:0.36s" x="24" y="166.0" xml:space="preserve">+++++++++++++++++++++++++++++++*%@@%%%%%%%###*++++++++++++++++++++++++++++++********</text>
+    <text class="r" style="animation-delay:0.405s" x="24" y="180.0" xml:space="preserve">++++++++++++++++++++++++++++++%@@%#%%#*++==+###++++++++++++++++++++++++++++++*******</text>
+    <text class="r" style="animation-delay:0.45s" x="24" y="194.0" xml:space="preserve">+++++++++++++++++++=++++++++*@@@#+=-:..      .-+##++++++++++++++++++++++++++++******</text>
+    <text class="r" style="animation-delay:0.495s" x="24" y="208.0" xml:space="preserve">+++++++++++++++++======++++#@@#*+-:..          .+#%+==++++++++++++++++++++++++******</text>
+    <text class="r" style="animation-delay:0.54s" x="24" y="222.0" xml:space="preserve">++++++++++++++++========+++@@%#+=-:.            :+#*===++=++++++++++++++++++++++****</text>
+    <text class="r" style="animation-delay:0.585s" x="24" y="236.0" xml:space="preserve">+++++++++++++++==========+*@@%#*=-:.             .=*=======++++++++++++++++++++++***</text>
+    <text class="r" style="animation-delay:0.63s" x="24" y="250.0" xml:space="preserve">+++++++++++++============++@@##++=+=--.. :-++==-: :*+=========++++++++++++++++++++**</text>
+    <text class="r" style="animation-delay:0.675s" x="24" y="264.0" xml:space="preserve">+++++++++++===============+%@%%@@@%%%#+:.*%@%#%#*=:+++==========+++++++++++++++++++*</text>
+    <text class="r" style="animation-delay:0.72s" x="24" y="278.0" xml:space="preserve">+++++++++++================#%#@@@@@%%%*. +%@@%#**= :.-===========++++++++++++++++++*</text>
+    <text class="r" style="animation-delay:0.765s" x="24" y="292.0" xml:space="preserve">+++++++++++===============#%@##@@@@@@%+:  +#%%*+-  . .===========+++++++++++++++++++</text>
+    <text class="r" style="animation-delay:0.81s" x="24" y="306.0" xml:space="preserve">++++++++++================#%@%%####+=+*-.:.::..    . .=============+++++++++++++++++</text>
+    <text class="r" style="animation-delay:0.855s" x="24" y="320.0" xml:space="preserve">++++++++++================*#@%%#*-:.:+%#=::       .: :=============+++++++++++++++++</text>
+    <text class="r" style="animation-delay:0.9s" x="24" y="334.0" xml:space="preserve">+++++++++==================#%@%#*=---==-:.....    .--==============+++++++++++++++++</text>
+    <text class="r" style="animation-delay:0.945s" x="24" y="348.0" xml:space="preserve">+++++++++===================**%%#+++*#*=-:::::.  .:++===============++++++++++++++++</text>
+    <text class="r" style="animation-delay:0.99s" x="24" y="362.0" xml:space="preserve">+++++++++++===================*@%#*++****+-:..:::--+==================++++++++++++++</text>
+    <text class="r" style="animation-delay:1.035s" x="24" y="376.0" xml:space="preserve">+++++++++++====================%@@%#**=-..   .:-=-:+==================++++++++++++++</text>
+    <text class="r" style="animation-delay:1.08s" x="24" y="390.0" xml:space="preserve">++++++++++++==++++==+++++++++*@@@@@@%##*==+===*+-.:#*+================++++++++++++++</text>
+    <text class="r" style="animation-delay:1.125s" x="24" y="404.0" xml:space="preserve">+++++++++++++++++++++++++*%@@@@@@@@@@@@@@%%%#*=:..-####*++============++++++++++++++</text>
+    <text class="r" style="animation-delay:1.17s" x="24" y="418.0" xml:space="preserve">++++++++++++++++++++*#%@@@@@@@@@@@@@@@@@%#*+==:...+########**++=======++++++++++++++</text>
+    <text class="r" style="animation-delay:1.215s" x="24" y="432.0" xml:space="preserve">+++++++++++++++*#%%@@@@@@@@@@@@@@@%%%%%%#*+=-:...:###############***++==++++++++++++</text>
+    <text class="r" style="animation-delay:1.26s" x="24" y="446.0" xml:space="preserve">++++++++++*#%%%%%%%%%%%%%@@@@@@@@@%****#*+=-::.::+######################*+++++++++++</text>
+    <text class="r" style="animation-delay:1.305s" x="24" y="460.0" xml:space="preserve">++++++++%%%@%%%%%%%%%%%%%@@@@@@@@@%#*+++*++=-:::-#########################*+++++++++</text>
+    <text class="r" style="animation-delay:1.35s" x="24" y="474.0" xml:space="preserve">+++++++*@@%%%%%%%%%%%%%%%%%@@@%@@@%@%*=-----:.:+@##########%###############+++++++++</text>
+    <text class="r" style="animation-delay:1.395s" x="24" y="488.0" xml:space="preserve">+++++++%@@@%%%%%%%%%%%%%%%%%%%%%%%%%@@@%#***#%%%@##########%%############%%*++++++++</text>
+    <text class="r" style="animation-delay:1.44s" x="24" y="502.0" xml:space="preserve">++++++#@@@@@%%%####%%%###%%%%%%%%%%#%@@@%%%%%%%%%##########%################++++++++</text>
+    <text class="r" style="animation-delay:1.485s" x="24" y="516.0" xml:space="preserve">+++++*@@@@@@@%%####%%%%###%%###%#%%%#%@@%%%%%%%%%#####################%#%%%%#+++++++</text>
+    <text class="r" style="animation-delay:1.53s" x="24" y="530.0" xml:space="preserve">++++*#@@@%%%@@@%####%%%%###%######%%#%%@@%%%%%%%%##############%%####%%%###%#+++++++</text>
+    <text class="r" style="animation-delay:1.575s" x="24" y="544.0" xml:space="preserve">++++*%@@@@%%%@@@%###%%%%%%##%######%#%#%@@%%%%%@##############%%##%%%@%###%%%*++++++</text>
+    <text class="r" style="animation-delay:1.62s" x="24" y="558.0" xml:space="preserve">+++**@@@@@@%%%%@@%###%%%%%%#%%#######%%#%@@%%@%%#############%%%#@%%%%%%%%%%%*++++++</text>
+    <text class="r" style="animation-delay:1.665s" x="24" y="572.0" xml:space="preserve">*****@@@@@@@@%%%@@%%##%%%%%%#%%#######@#%@@%%%%%##########%%%%%#%@@@%%%%%%%%%#++++++</text>
+    <text class="r" style="animation-delay:1.71s" x="24" y="586.0" xml:space="preserve">****#@@@@@@@@@%%@@@%%#%%%%%%%%@#######@%%@@%@%%%#######%%%%%%%%%%@@@%%%%%%%%%#++++++</text>
+    <text class="r" style="animation-delay:1.755s" x="24" y="600.0" xml:space="preserve">*****@@@@@@@%%%%%@@@%%%%%%%%%%%@######%@%@@%@%@%###%%#%%%%%%%%%%@@@%%%%#%%%%%#++++++</text>
+    <text class="r" style="animation-delay:1.8s" x="24" y="614.0" xml:space="preserve">*****@@@@@@@@%%%%@@@@%%%%%%%%%%@%#####%@%@@@@@@%%%%%%#%%%%%@%%%@@@%%%%%###%%%#++++++</text>
+    <text class="r" style="animation-delay:1.845s" x="24" y="628.0" xml:space="preserve">****#@@@@@@@@@%%%%%@@@%%%%%%%%%%@%####%@%%@@@@@%%%%%%%%%%%%%%%%@@%%%%#######%%++++++</text>
+    <text class="r" style="animation-delay:1.89s" x="24" y="642.0" xml:space="preserve">****#@@@@@@@%%%%%%%%@@@%%%%%%%%%@@%%%%%@@%@@@@@%%%%%%%%%%%%%%%@@@%%%%#####%%%#*+++++</text>
+    <text class="r" style="animation-delay:1.935s" x="24" y="656.0" xml:space="preserve">****#@@@@@@%%%%%%%#%%@@@@@@@%%%%%@%%%%%%@%@@@@@%%%%%%%%%%%%%%@@@%%%%%######%%%*+++++</text>
+    <text class="r" style="animation-delay:1.98s" x="24" y="670.0" xml:space="preserve">****#@@@@@@%%%%%%%%%%@@@@@@@@@%%%%@%%%%%@%@@@@@%%%%%%%%%%%%%@@@@@%%%%#####%%%%*+++++</text>
+    <text class="r" style="animation-delay:2.025s" x="24" y="684.0" xml:space="preserve">****#@@@@@%%%*%%%%%%%%@@@@@@@@@%%%@%%%%%@%@@%@@%%@@@%%%%%%@@@@@@@%%%%######%%%#+++++</text>
+    <text class="r" style="animation-delay:2.07s" x="24" y="698.0" xml:space="preserve">*****@@@@@@@%-:=**#%%%%@@@@@@@@@%%%@%%%%@%@@@@@%%%%@@%%@@@@@@@@@@@%%%#####%%%%#+++++</text>
+    <text class="r" style="animation-delay:2.115s" x="24" y="712.0" xml:space="preserve">*****@@@@@@@@@#+=----=+#@@@@@@@@%%%@%%%%@%@@@@@%%@@@@@@@@@@@@@@@@@@%%%%%#%%%%%*+++++</text>
+    <text class="r" style="animation-delay:2.16s" x="24" y="726.0" xml:space="preserve">*****%@@@@@@@@@@%*+=-::::=#@@@@@@@@@@@@%@%@@@@@%%%@@@@@@@%%%%%###%%%%%%%%%%%%%++++++</text>
+    <text class="r" style="animation-delay:2.205s" x="24" y="740.0" xml:space="preserve">******@@@%#*+**=-:::::::::----=##***#########%@%%##%%##############%@%%@%%%%%#+++++*</text>
+    <text class="r" style="animation-delay:2.25s" x="24" y="754.0" xml:space="preserve">******%%%####%#+=---::::::::-**+*++**#########%%%%%#############%%##%@@%@@%%%*+++***</text>
+    <text class="r" style="animation-delay:2.295s" x="24" y="768.0" xml:space="preserve">******#@@##***##+===--------=%#+++*+#@##########%%@@@%##%%%%#%%%%%%%%%#++%@@%*+*****</text>
+</svg>
