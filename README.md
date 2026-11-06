@@ -2,17 +2,28 @@
   <img src="assets/header.svg" alt="ESO EXE terminal: Freedom isn't a feature. It's the whole point. The website refreshes its GitHub data every 10 minutes." width="100%">
 </p>
 
-<p align="center">
-  <a href="https://eso-exe.pages.dev/"><img alt="Website" src="https://img.shields.io/badge/website-eso--exe.pages.dev-161513?style=flat-square"></a>
-  <a href="https://esoexe.github.io/astro-ai/"><img alt="A.S.T.R.O AI live site" src="https://img.shields.io/badge/A.S.T.R.O%20AI-live%20site-B4532A?style=flat-square"></a>
-  <a href="https://esoexe.github.io/falcon-ai/"><img alt="Falcon AI live site" src="https://img.shields.io/badge/Falcon%20AI-live%20site-B4532A?style=flat-square"></a>
-</p>
+<table>
+  <tr>
+    <td width="46%" valign="top" align="center">
+      <img src="assets/portrait-ascii.svg" alt="Ilyass, ESO EXE, drawn as an animated ASCII portrait" width="100%">
+      <br>
+      <sub><a href="https://eso-exe.pages.dev/">Move your cursor over the interactive version on the website</a></sub>
+    </td>
+    <td width="54%" valign="top">
 
----
-
-Hi, I'm Ilyass, but they call me **ESO EXE** ∞
+**Hi, I'm Ilyass, but they call me ESO EXE ∞**
 
 I'm an independent developer who believes software should belong to the people who use it. I build free, open-source, local-first software that runs on your own machine, never expires, and never asks for a monthly payment.
+
+> Freedom isn't a feature. It's the whole point.
+
+**Website:** [eso-exe.pages.dev](https://eso-exe.pages.dev/)
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Selected work
 
@@ -25,7 +36,7 @@ I'm an independent developer who believes software should belong to the people w
 
 ## Find me
 
-- Website: [eso-exe.pages.dev](https://eso-exe.pages.dev/)
+- Website: [eso-exe.pages.dev](https://eso-exe.pages.dev/), which refreshes its GitHub numbers every 10 minutes.
 - The work is public. Read the source, open an issue, or star a repository.
 
-<sub>Profile details are taken from public GitHub data.</sub>
+<sub>The ASCII portrait and the terminal header are animated SVG images. GitHub doesn't run scripts on profiles, so the cursor-reactive version lives on the website.</sub>
