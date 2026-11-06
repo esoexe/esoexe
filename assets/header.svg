@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="t d">
+  <title id="t">ESO EXE</title>
+  <desc id="d">Ilyass, ESO EXE. Free, open-source, local-first software.</desc>
+  <style>
+    .bg { fill: #F4F1EA; }
+    .ink { fill: #161513; }
+    .muted { fill: #6B665C; }
+    .accent { fill: #B4532A; }
+    .rule { stroke: #D8D2C4; stroke-width: 1; }
+    .word { font: 700 84px/1 "Helvetica Neue", Arial, sans-serif; letter-spacing: -2px; }
+    .small { font: 500 15px/1 ui-monospace, Menlo, Consolas, monospace; letter-spacing: 2px; text-transform: uppercase; }
+    .line { font: 400 22px/1 "Helvetica Neue", Arial, sans-serif; }
+    .in { opacity: 0; animation: rise 900ms cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: 150ms; } .d2 { animation-delay: 450ms; } .d3 { animation-delay: 800ms; } .d4 { animation-delay: 1100ms; }
+    .grow { transform-origin: 0 50%; transform: scaleX(0); animation: grow 1100ms cubic-bezier(.2,.7,.2,1) 300ms forwards; }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #121110; } .ink { fill: #F4F1EA; } .muted { fill: #A39D90; } .rule { stroke: #3A3733; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .in, .grow { animation: none; opacity: 1; transform: none; }
+      .caret { animation: none; }
+    }
+  </style>
+  <rect class="bg" width="1000" height="240"/>
+  <text class="small muted in d1" x="60" y="62">INDEPENDENT DEVELOPER</text>
+  <text class="word ink in d2" x="56" y="134">ESO EXE<tspan class="accent caret">_</tspan></text>
+  <rect class="rule grow" x="60" y="164" width="880" height="1"/>
+  <text class="line ink in d3" x="60" y="206">Freedom isn't a feature. It's the whole point.</text>
+  <text class="small muted in d4" x="940" y="62" text-anchor="end">FREE · OPEN SOURCE · LOCAL FIRST</text>
+</svg>
