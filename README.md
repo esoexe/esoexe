@@ -7,7 +7,7 @@
     <td width="46%" valign="top" align="center">
       <img src="assets/portrait-ascii.svg" alt="Ilyass, ESO EXE, drawn as an animated ASCII portrait" width="100%">
       <br>
-      <sub><a href="https://eso-exe.pages.dev/">Move your cursor over the interactive version on the website</a></sub>
+      <sub><a href="https://esoexe.github.io/">Move your cursor over the interactive portrait</a></sub>
     </td>
     <td width="54%" valign="top">
 
@@ -39,4 +39,4 @@ I'm an independent developer who believes software should belong to the people w
 - Website: [eso-exe.pages.dev](https://eso-exe.pages.dev/), which refreshes its GitHub numbers every 10 minutes.
 - The work is public. Read the source, open an issue, or star a repository.
 
-<sub>The ASCII portrait and the terminal header are animated SVG images. GitHub doesn't run scripts on profiles, so the cursor-reactive version lives on the website.</sub>
+<sub>The ASCII portrait and the terminal header are animated SVG images. GitHub doesn't run scripts on profiles, so the cursor-reactive version is at [esoexe.github.io](https://esoexe.github.io/).</sub>
