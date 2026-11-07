@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/header.svg" alt="ESO EXE terminal: Freedom isn't a feature. It's the whole point. The website refreshes its GitHub data every 10 minutes." width="100%">
+  <img src="assets/header.svg" alt="ESO EXE terminal: Freedom isn't a feature. It's the whole point." width="100%">
 </p>
 
 <table>
   <tr>
-    <td width="46%" valign="top" align="center">
-      <img src="assets/portrait-ascii.svg" alt="Ilyass, ESO EXE, drawn as an animated ASCII portrait" width="100%">
+    <td width="44%" valign="top" align="center">
+      <img src="assets/portrait-dither.svg" alt="Ilyass, ESO EXE, drawn as a dithered portrait" width="100%">
       <br>
-      <sub><a href="https://esoexe.github.io/">Move your cursor over the interactive portrait</a></sub>
+      <sub><a href="https://eso-exe.pages.dev/">eso-exe.pages.dev</a></sub>
     </td>
-    <td width="54%" valign="top">
+    <td width="56%" valign="top">
 
 **Hi, I'm Ilyass, but they call me ESO EXE ∞**
 
@@ -36,7 +36,7 @@ I'm an independent developer who believes software should belong to the people w
 
 ## Find me
 
-- Website: [eso-exe.pages.dev](https://eso-exe.pages.dev/), which refreshes its GitHub numbers every 10 minutes.
+- Website: [eso-exe.pages.dev](https://eso-exe.pages.dev/). It refreshes its GitHub numbers every 10 minutes.
 - The work is public. Read the source, open an issue, or star a repository.
 
-<sub>The ASCII portrait and the terminal header are animated SVG images. GitHub doesn't run scripts on profiles, so the cursor-reactive version is at [esoexe.github.io](https://esoexe.github.io/).</sub>
+<sub>The header and portrait are animated or drawn in SVG. GitHub doesn't run scripts on profiles, so the interactive version is on [esoexe.github.io](https://esoexe.github.io/).</sub>
